@@ -13,10 +13,54 @@ h6{
     margin-top: 50px;
     font-size: 15px;
 }
-div{
+.bh{
     background-color: black;
-    height: 8px;
+    height: 6px;
 }
 h1{
     font-size: 40px;
+}
+h3{
+    font-size: 15px;
+}
+.ah{
+    margin: -20px;
+    display: flex;
+    font-family: Arial, sans-serif;
+    background-color:#ff0000;
+}
+img{
+    height: 300px;
+    width: 492px;
+}
+span{
+    font-size: 30px;
+}
+.ph{
+    background-color: black;
+    height: 6px;
+    width: 200px;
+}
+.hab{
+    margin: -20px;
+    display: flex;
+    font-family: Arial, sans-serif;
+    background-color:#ff0000;
+}
+.a{
+font-size: 70px;
+}
+.b{
+font-size: 70px;
+}
+.c{
+font-size: 70px;
+}
+.maconha{
+    font-size: 70px;
+}
+.php{
+    background-color: black;
+    height: 6px;
+    width: 300px;
 }
