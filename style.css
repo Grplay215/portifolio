@@ -1,0 +1,22 @@
+* {
+    padding: 0;
+    margin: 20px;
+    box-sizing: border-box;
+}
+
+body{
+    background-color: #ff0000;
+    font-family: Arial, sans-serif;
+}
+h6{
+    color: beige;
+    margin-top: 50px;
+    font-size: 15px;
+}
+div{
+    background-color: black;
+    height: 8px;
+}
+h1{
+    font-size: 40px;
+}
